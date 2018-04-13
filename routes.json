@@ -1,0 +1,4 @@
+{
+    "/api/Image/*": "/$1",
+    "/api/application/times/server": "/getServerTime"
+}
